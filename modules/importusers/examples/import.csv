@@ -1,0 +1,5 @@
+"user_login","user_email","user_pass","first_name","last_name","display_name","role","smsify_mobile","user-group"
+"test","test@example.com","mypassword","Test","User","Test User","subscriber","1411111111","georgia-crew"
+"test2","test2@example.com",,"Test","User","Test User","subscriber","1411111112","georgia-crew"
+"test3","test3@example.com",,"Test","User","Test User","subscriber","1411111113","georgia-crew"
+"test4","test4@example.com",,"Test","User","Test User","subscriber","1411111114"
